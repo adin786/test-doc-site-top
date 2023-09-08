@@ -2,6 +2,9 @@ site_name: test-multirepo-site
 
 theme:
   name: material
+  features:
+    - navigation.tabs
+
   
 nav:
   - 'Home': index.md
